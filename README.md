@@ -1,4 +1,4 @@
-# 999cape-resource-downloader
+# cape-resource-downloader
 program do pobierania pelerynek bo jakies checki smieszne se zrobili zebyscie nie mogli pobierac to tera mozecie
 
 # pobierak
